@@ -44,4 +44,6 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[HARINI R_212225060080_PROMPT_EXP.N0 3.pdf](https://github.com/user-attachments/files/28661016/HARINI.R_212225060080_PROMPT_EXP.N0.3.pdf)
+
 RESULT: 
